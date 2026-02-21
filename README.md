@@ -6,7 +6,7 @@
 
 See the **true cost** of your daily habits - in money **and** time. Built specifically for India with Indian habits, prices, and context.
 
-![App Screenshot](https://via.placeholder.com/800x400/1e293b/f59e0b?text=Habit+Cost+Calculator+India)
+![App Screenshot]((https://snipboard.io/61nAaK.jpg))
 
 ## 🌟 Features
 
